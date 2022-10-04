@@ -21,11 +21,11 @@ const UserScreen = () => {
  
 const styles = StyleSheet.create({
     textStyle: {
-        fontSize: 24,
+        fontSize: 26,
         color: 'black'
     },
     text: {
-        fontSize: 16,
+        fontSize: 18,
         color: 'black'
     }
 })
